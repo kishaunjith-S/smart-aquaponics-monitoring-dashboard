@@ -358,3 +358,15 @@ Example Response:
 ## License
 
 This project is released for educational and research purposes.
+
+
+
+> ## ⚠️ This repo is archived
+>
+> The Smart Aquaponics project has been consolidated into a single monorepo
+> with backend, frontend, Pi, and Arduino code. All active development moved to:
+>
+> **→ https://github.com/kishaunjith-S/smart-aquaponics**
+>
+> This repository is preserved for reference but receives no updates. Live
+> demo: https://smart-aquaponics.vercel.app
